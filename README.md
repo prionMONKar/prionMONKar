@@ -4,15 +4,16 @@
 </p>
 
 
-Hello! <\Coders> Thank you for viewing my Github Profile.
+<p>Hello! Coders. Thank you for viewing my Github Profile.</p>
 ## 👤 About Me
-- 🔭 I’m currently working on **my resume.**
 
-- 🌱 I’m currently learning **pandas**
+- 🔭 I am currently working on **my resume.**
 
-- 👯 I’m looking to collaborate on **projects**
+- 🌱 Currently learning **pandas**
 
-- ⚡ Fun fact **I love to play games and solve Coordinate Geometry Problem which help my brain to release dopamine.**
+- 👯 Looking forward to collaborate on **projects**
+
+- ⚡ Fun fact **I love to play games and solve Real-time Problem which help my brain to release dopamine.**
 </br>
 
 ## ⚙ Skills
@@ -27,6 +28,10 @@ Hello! <\Coders> Thank you for viewing my Github Profile.
   <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://github.com/prionMONKar/prionMONKar/blob/main/c-logo-svgrepo-com.svg" alt="cplusplus" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/prionMONKar/prionMONKar/blob/main/python-original.svg" alt="python" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://css3.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/prionMONKar/prionMONKar/blob/main/css-3-logo-svgrepo-com.svg" alt="c" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://html.com/html5/" target="_blank" rel="noreferrer"> <img src="https://github.com/prionMONKar/prionMONKar/blob/main/html-5-logo-svgrepo-com.svg" alt="c" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.mathworks.com" target="_blank" rel="noreferrer"> <img src="https://github.com/prionMONKar/prionMONKar/blob/main/matlab-original.svg" alt="matlab" width="40" height="40" /> </a>
   &nbsp; &nbsp;
