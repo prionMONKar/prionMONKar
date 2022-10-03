@@ -3,8 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=solarized-dark&center=true&vCenter=true&lines=Competitive+Programmer;ML/AI+and+Robotics+Enthusiast"><br>
 </p>
 
->Hello! Coders. Thank you for viewing my Github Profile.
-
+<blockquote background:solarized-dark>
+Hello! Coders. Thank you for viewing my Github Profile.
+</blockquote>
 
 ## 👤 About Me
 
