@@ -9,13 +9,13 @@ Hello! Coders. Thank you for viewing my Github Profile.
 
 ## 👤 About Me
 
-- 🔭 I am currently working on **my Resume.**
+- 🔭 ***I am currently working on **my Resume.*****
 
-- 🌱 Currently learning **pandas**
+- 🌱 ***Currently learning **Pandas*****
 
-- 👯 Looking forward to collaborate on **projects**
+- 👯 ***Looking forward to collaborate on **projects*****
 
-- ⚡ Fun fact **I love to play games and solve Real-time Problem which help my brain to release dopamine.**
+- ⚡ ***Fun fact **I love to play games and solve Real-time Problem which help my brain to release dopamine.*****
 </br>
 
 ## ⚙ Skills
