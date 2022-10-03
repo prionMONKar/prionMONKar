@@ -3,13 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=solarized-dark&center=true&vCenter=true&lines=Competitive+Programmer;ML/AI+and+Robotics+Enthusiast"><br>
 </p>
 
-<blockquote background:solarized-dark>
+<blockquote>
 Hello! Coders. Thank you for viewing my Github Profile.
 </blockquote>
 
 ## 👤 About Me
 
-- 🔭 I am currently working on **my resume.**
+- 🔭 I am currently working on **my Resume.**
 
 - 🌱 Currently learning **pandas**
 
