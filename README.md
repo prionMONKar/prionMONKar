@@ -50,7 +50,7 @@ Hello! <\Coders> Thank you for viewing my Github Profile.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prionMONKar&theme=solarized-dark&hide_border=true&count_private=true&layout=compact)
 
-## 🔥 My Github Statis
+## 🔥 My Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prionMONKar&show_icons=true&theme=solarized-dark&hide_border=true&count_private=true)
 
