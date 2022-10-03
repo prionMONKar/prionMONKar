@@ -6,7 +6,6 @@
 
 Hello! <\Coders> Thank you for viewing my Github Profile.
 ## 👤 About Me
-
 - 🔭 I’m currently working on **my resume.**
 
 - 🌱 I’m currently learning **pandas**
