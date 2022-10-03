@@ -1,4 +1,3 @@
-![logo](https://github.com/prionMONKar/prionMONKar/blob/main/ezgif.com-video-to-gif.gif)
 <h1 align="center">Hi 👋, I'm Prionkar Barua</h1>
 <h3 align="center">I am a Competitive Programmer and ML/Robotics Enthusiast.</h3>
 
