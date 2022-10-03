@@ -1,27 +1,69 @@
 <h1 align="center">Hi 👋, I'm Prionkar Barua</h1>
-<h3 align="center">I am a Competitive Programmer and ML/Robotics Enthusiast.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=solarized-dark&center=true&vCenter=true&lines=Competitive+Programmer;ML/AI+and+Robotics+Enthusiast"><br>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prionmonkar&label=Profile%20views&color=0e75b6&style=flat" alt="prionmonkar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prionmonkar" alt="prionmonkar" /></a> </p>
+Hello! <\Coders> Thank you for viewing my Github Profile.
+## 👤 About Me
 
 - 🔭 I’m currently working on **my resume.**
 
 - 🌱 I’m currently learning **pandas**
 
-- ⚡ Fun fact **I love to play games and Coordinate Geometry help to release dopamine.**
+- 👯 I’m looking to collaborate on **projects**
 
-<h3 align="left">Connect with me:</h3>
+- ⚡ Fun fact **I love to play games and solve Coordinate Geometry Problem which help my brain to release dopamine.**
+</br>
+
+## ⚙ Skills
+
+
+### 👨‍💻 Programming Languages
+
+
+<div align="left">
+  <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://github.com/prionMONKar/prionMONKar/blob/main/c-1.svg" alt="c" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://github.com/prionMONKar/prionMONKar/blob/main/c-logo-svgrepo-com.svg" alt="cplusplus" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/prionMONKar/prionMONKar/blob/main/python-original.svg" alt="python" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.mathworks.com" target="_blank" rel="noreferrer"> <img src="https://github.com/prionMONKar/prionMONKar/blob/main/matlab-original.svg" alt="matlab" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+</div>
+
+
+
+### 🛠 Tools
+
+
+<div align="left">
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://github.com/prionMONKar/prionMONKar/blob/main/git-original.svg" alt="git" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://github.com/prionMONKar/prionMONKar/blob/main/arduino-original.svg" alt="arduino" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+</div>
+</br>
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prionMONKar&theme=solarized-dark&hide_border=true&count_private=true&layout=compact)
+
+## 🔥 My Github Statis
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prionMONKar&show_icons=true&theme=solarized-dark&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=prionMONKar&theme=solarized-dark&hide_border=true&count_private=true)
+
+## Profile Views
+![](https://komarev.com/ghpvc/?username=prionMONKar&color=brightgreen)
+
+## 📇 Connect with Me
+
+
 <p align="left">
 <a href="https://linkedin.com/in/prionkar barua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prionkar barua" height="30" width="40" /></a>
 <a href="https://fb.com/prionkar barua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prionkar barua" height="30" width="40" /></a>
+<a href="https://t.me/Prionkar" target="blank"><img align="center" src="https://github.com/prionMONKar/prionMONKar/blob/main/telegram.svg" alt="Telegram" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prionmonkar&show_icons=true&locale=en&layout=compact" alt="prionmonkar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prionmonkar&show_icons=true&locale=en" alt="prionmonkar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prionmonkar&" alt="prionmonkar" /></p>
