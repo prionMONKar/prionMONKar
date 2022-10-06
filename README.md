@@ -54,13 +54,13 @@ Hello! Coders. Thank you for viewing my Github Profile.
 
 ## Top Languages
 
-![op](https://github-readme-stats.vercel.app/api/top-langs/?username=prionMONKar&theme=solarized-dark&layout=compact&langs_count=6&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prionMONKar&layout=compact&theme=solarized-dark&hide_border=true)
 
 ## 🔥 My Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prionMONKar&show_icons=true&theme=solarized-dark&hide_border=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prionMONKar&show_icons=true&theme=solarized-dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=prionMONKar&theme=solarized-dark&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=prionMONKar&theme=solarized-dark&hide_border=true)
 
 ## Profile Views
 ![](https://komarev.com/ghpvc/?username=prionMONKar&color=brightgreen)
