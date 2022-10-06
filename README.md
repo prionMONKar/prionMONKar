@@ -54,7 +54,7 @@ Hello! Coders. Thank you for viewing my Github Profile.
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prionMONKar&theme=solarized-dark&hide_border=true&count_private=true&layout=compact)
+![op](https://github-readme-stats.vercel.app/api/top-langs/?username=prionMONKar&theme=solarized-dark&layout=compact&langs_count=6&hide_border=true)
 
 ## 🔥 My Github Stats
 
