@@ -11,7 +11,7 @@ Hello! Coders. Thank you for viewing my Github Profile.
 
 - 🔭 ***I am currently working on **my Resume.*****
 
-- 🌱 ***Currently learning **Pandas,NLTK,Scikit Learn,seaborn*****
+- 🌱 ***Currently learning **Pandas,NLTK,spaCy,Scikit Learn*****
 
 - 👯 ***Looking forward to collaborate on **projects*****
 
