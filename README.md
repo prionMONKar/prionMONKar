@@ -11,11 +11,11 @@ Hello! Coders. Thank you for viewing my Github Profile.
 
 - 🔭 ***I am currently working on **my Resume.*****
 
-- 🌱 ***Currently learning **Pandas*****
+- 🌱 ***Currently learning **Pandas,NLTK,Scikit Learn,seaborn*****
 
 - 👯 ***Looking forward to collaborate on **projects*****
 
-- ⚡ ***Fun fact **I love to play games and solve Real-time Problem which help my brain to release dopamine.*****
+- ⚡ ***Fun fact **I love to play games and solve Real-time Problem.*****
 </br>
 
 ## ⚙ Skills
